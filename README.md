@@ -1,2 +1,3 @@
-# creando_red_neuronal
-Este es un repositorio para desarrollo e implementacion de una red neuronal
+# Este es un repo para desarrollo de una red neuronal
+descripcion en construcción
+
